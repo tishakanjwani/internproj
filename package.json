@@ -1,0 +1,23 @@
+{
+  "name": "internproj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tishakanjwani/internproj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tishakanjwani/internproj/issues"
+  },
+  "homepage": "https://github.com/tishakanjwani/internproj#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.0.1"
+  }
+}
